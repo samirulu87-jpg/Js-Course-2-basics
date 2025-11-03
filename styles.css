@@ -1,0 +1,20 @@
+body {
+    margin-top: 20px;
+    padding: 10px;
+     display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(75, 78, 97);
+}
+
+.bodycard {
+    padding: 20px;
+    background-color: rgb(101, 141, 151);
+    box-shadow: 0 0 20px;
+    border-radius: 5px;
+}
+h2 {
+    color: rgb(0, 0, 63);
+    font-size: 30px;
+}
